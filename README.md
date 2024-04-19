@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ziya
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+Hi , I'm Ziya
+Passionate Turkish developer!
+🙋‍♂️ About Me
+🔭 I’m currently working on private and open source projects.
 
-<!---
-ZiyaGit/ZiyaGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🍰 I'm a Turkish boy of 20yo
+
+🚀 Languages and Tools:
+css3 git html5 java Kotlin javascript mongodb typescript github ubuntu nodejs npm
